@@ -1,0 +1,5 @@
+.\.venv\Scripts\Activate
+
+python app.py
+
+streamlit run app.py
